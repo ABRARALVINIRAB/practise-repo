@@ -1,0 +1,27 @@
+#first_container{
+    width: 100%;
+    height: 300px;
+    
+   
+    background-color: #cccccc;
+}
+#family{
+    width: 50% ; 
+    height: 60%; 
+    background-color: rgb(139, 15, 15);
+    padding-left: 40%;
+}
+#second_container{
+    width: 100%;
+    height: 300px;
+    background-color: darkorange;
+}
+#for_image{
+    width: 40%;
+    height: 300px;
+}
+#for_paragraph{
+    width: 60%;
+    height: 300px;
+    float: inline-end;
+}
